@@ -66,4 +66,4 @@ Check out the live site: [Champs Pizza Website](https://champspizzava.com/)
 ---
 
 ### Homepage
-![Home Page](https://via.placeholder.com/800x400.png?text=Champs+Pizza+Home+Page)
+![Home Page](https://github.com/Syedaaneesa/champspizzava/blob/main/screencapture-champspizzava-2026-03-17-23_38_13.png)
