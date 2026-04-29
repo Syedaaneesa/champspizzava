@@ -1,6 +1,6 @@
 #  Champs Pizza Website
 
-Welcome to **Champs Pizza**, a modern and fully responsive WordPress website for a pizza restaurant located in Sterling, VA. This project highlights handcrafted pizzas, premium toppings, a wide variety of subs, salads, wings, and more — all designed for an engaging and user-friendly online ordering experience.
+Welcome to **Champs Pizza**, a modern and fully responsive WordPress website for a pizza restaurant located in Sterling, VA. This project highlights handcrafted pizzas, premium toppings, and a wide variety of subs, salads, wings, and more all designed to deliver an engaging, smooth, and user-friendly online ordering experience for customers.
 
 ---
 ##  Live Demo
