@@ -1,7 +1,8 @@
 #  Champs Pizza Website
 
-Welcome to **Champs Pizza**, a modern and fully responsive WordPress website designed for a pizza restaurant in Sterling. This project showcases handcrafted pizzas, premium toppings, delicious subs, fresh salads, flavorful wings, and more all presented through an engaging, smooth, and user-friendly online ordering experience. Built with performance, responsiveness, and ease of navigation in mind, the website helps customers explore the menu effortlessly, place orders conveniently, and enjoy a seamless browsing experience across all devices.
+Welcome to Champs Pizza, a modern, fully responsive WordPress website created for a pizza restaurant in Sterling. Designed to deliver an exceptional online experience, the site showcases handcrafted pizzas, premium toppings, savory subs, fresh salads, flavorful wings, and a variety of other menu favorites.
 
+Built with performance, responsiveness, and user experience in mind, the website features intuitive navigation, fast-loading pages, and a seamless online ordering system. Customers can easily browse the menu, customize their selections, and place orders effortlessly from any device, ensuring a smooth and enjoyable experience whether they're at home or on the go.
 
 
 ---
