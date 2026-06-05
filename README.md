@@ -8,7 +8,7 @@ Built with performance, responsiveness, and user experience in mind, the website
 ---
 ##  Live Demo
 
-Check out the live site: [Champs Pizza Website](https://champspizzava.com/)
+Live Website: [Champs Pizza Website](https://champspizzava.com/)
 
 ---
 
