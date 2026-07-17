@@ -7,7 +7,6 @@ Welcome to Champs Pizza, a modern and fully responsive WordPress website designe
 
 Visit Live Website: [Champs Pizza Website](https://champspizzava.com/)
 
----
 
 ##  Features
 
@@ -18,8 +17,6 @@ Visit Live Website: [Champs Pizza Website](https://champspizzava.com/)
 - Contact form with Google Maps integration
 - Newsletter subscription and social media links
 - SEO optimized for local search
-
----
 
 
 
@@ -61,7 +58,7 @@ Visit Live Website: [Champs Pizza Website](https://champspizzava.com/)
 ##  Developer Information
 
 - **Name:** Syeda Aneesa  
-- **Email:** saneesa@zeestmedia.com  
+- **Email:** s.shujaat05@gmail.com 
 
 ---
 
