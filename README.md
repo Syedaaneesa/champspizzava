@@ -12,10 +12,7 @@ Visit Live Website: [Champs Pizza Website](https://champspizzava.com/)
 
 - Fully responsive design optimized for mobile and desktop
 - Interactive pizza menu with categories: pizzas, calzones, subs, wings, salads, sides, wraps, burgers, and rice bowls
-- Online ordering integration ([Order Online](https://www.orderchampspizzamenu.com))
 - Customizable homepage sections: Featured items, Specials, Best Sellers
-- Contact form with Google Maps integration
-- Newsletter subscription and social media links
 - SEO optimized for local search
 
 
@@ -50,8 +47,7 @@ Visit Live Website: [Champs Pizza Website](https://champspizzava.com/)
 
 - WordPress CMS
 - PHP, HTML5, CSS3, JavaScript
-- MySQL Database
-- Elementor / WooCommerce (for menu and online ordering)
+- Elementor
 
 
 
