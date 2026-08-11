@@ -5,7 +5,7 @@ Welcome to Champs Pizza, a modern and fully responsive WordPress website designe
 
 ##  Live Demo
 
-Visit Live Website: [Champs Pizza Website](https://champspizzava.com/)
+Visit Live Website: [https://champspizzava.com/](https://champspizzava.com/)
 
 
 ##  Features
